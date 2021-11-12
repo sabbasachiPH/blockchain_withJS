@@ -1,0 +1,11 @@
+{
+  "packageManager": "yarn@3.1.0",
+  "name": "joscoin_blockChain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "elliptic": "^6.5.4"
+  }
+}
